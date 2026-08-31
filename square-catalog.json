@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T14:25:58.464Z",
+  "generatedAt": "2026-08-31T18:36:47.526Z",
   "items": [
     {
       "id": "DM565NCAUIVSA2AGC6AHV2MF",
@@ -16,6 +16,22 @@
       "price": 40,
       "priceMax": 40,
       "photo": "square-photos/PGH3DTO2M2GGJK4C6QNKG7XL.jpeg"
+    },
+    {
+      "id": "2SZPKHXKFJB4VKMXQEYS3Y4E",
+      "name": "BANDS: Feather Band - Riverbend",
+      "category": "Bands",
+      "price": 40,
+      "priceMax": 40,
+      "photo": "square-photos/K2MUEBFP3JEN26JY3UUSWXXC.png"
+    },
+    {
+      "id": "FZXPUKNWSR3FJQ5ZFNKZV6NB",
+      "name": "BANDS: Feather/turquoise stone band",
+      "category": "Bands",
+      "price": 50,
+      "priceMax": 50,
+      "photo": "square-photos/3DK2JFMY3TTFBIS3YF4YYHS7.png"
     },
     {
       "id": "67A6LIP6J2JUXABG3ZYNPQC2",
@@ -87,6 +103,38 @@
       "category": "Bands",
       "price": 5,
       "priceMax": 5,
+      "photo": null
+    },
+    {
+      "id": "JM7S6NAWMSRG7E2U5PFNTS6T",
+      "name": "DESIGNER: Cartier Wax Seal",
+      "category": "Designer",
+      "price": 40,
+      "priceMax": 40,
+      "photo": null
+    },
+    {
+      "id": "UZTRYQ2AGBTNP7TB6NER4XUG",
+      "name": "DESIGNER: Chanel Camellia",
+      "category": "Designer",
+      "price": 50,
+      "priceMax": 50,
+      "photo": null
+    },
+    {
+      "id": "VJLHMWCPAWOG7SE5XLEDPDT7",
+      "name": "DESIGNER: Label",
+      "category": "Designer",
+      "price": 50,
+      "priceMax": 50,
+      "photo": null
+    },
+    {
+      "id": "4FDO4M5OE3PM5R3JY4AHRRXN",
+      "name": "DESIGNER: Ribbon",
+      "category": "Designer",
+      "price": 50,
+      "priceMax": 50,
       "photo": null
     },
     {
@@ -186,14 +234,6 @@
       "photo": null
     },
     {
-      "id": "CCYOI7F524LJWJGW5LCKXI4F",
-      "name": "DETAILS: Pin (Large)",
-      "category": "Details",
-      "price": 10,
-      "priceMax": 10,
-      "photo": null
-    },
-    {
       "id": "7EHKRGM7HUOUNT2R6B6AQLZO",
       "name": "DETAILS: Pin (Medium)",
       "category": "Details",
@@ -283,7 +323,7 @@
     },
     {
       "id": "KTYZXB4PHZPX7A3XACHAJLZY",
-      "name": "HAT: Australian Wool Cattleman - Black + Basic Customization Package",
+      "name": "HAT: Australian Wool - Pinched Brim Black + Basic Customization Package",
       "category": "Hats",
       "price": 200,
       "priceMax": 200,
@@ -298,20 +338,28 @@
       "photo": "square-photos/6MBXGLMRJF5WUMMHPRBXP422.jpeg"
     },
     {
-      "id": "5EXVTSZ4FNPOVNKLN5F24BZH",
-      "name": "HAT: Australian Wool Cattleman - Ivory + Basic Package",
-      "category": "Hats",
-      "price": 200,
-      "priceMax": 200,
-      "photo": "square-photos/ZQYQK5RSWN7672V32VVQWVH5.jpeg"
-    },
-    {
       "id": "XBPOENPBFPDN6TIAFNSO6VZR",
       "name": "HAT: Australian Wool Cattleman - Taupe + Basic Customization Package",
       "category": "Hats",
       "price": 200,
       "priceMax": 200,
       "photo": "square-photos/RZ5IPCU355A2TH6OMTBZS4H3.jpeg"
+    },
+    {
+      "id": "5EXVTSZ4FNPOVNKLN5F24BZH",
+      "name": "HAT: Austrian Wool Pinched Cowboy - Ivory + Basic Package",
+      "category": "Hats",
+      "price": 200,
+      "priceMax": 200,
+      "photo": "square-photos/ZQYQK5RSWN7672V32VVQWVH5.jpeg"
+    },
+    {
+      "id": "J5NKKQFI3Q5XN55MX2SRQGRB",
+      "name": "HAT: Austrian Wool Pinched Cowboy - Stone + Basic Package",
+      "category": "Hats",
+      "price": 200,
+      "priceMax": 200,
+      "photo": "square-photos/MP75VCJ27WKGPPY2AATLRSIJ.jpeg"
     },
     {
       "id": "U6H5PVF7UYSW536JRXA7BPCD",
@@ -370,11 +418,19 @@
       "photo": "square-photos/YYBNFEKMRAZKQANSXFMRPHOB.jpeg"
     },
     {
-      "id": "45T5XBDV23QN7AHRBN7TSAVJ",
-      "name": "HAT: Premium Hat Upgrade",
+      "id": "XBBU3FIOYLPPHWI4CZ25DC4Q",
+      "name": "HAT: Queens Australian Wool Rancher - Wine + Basic Customization Package Copy",
       "category": "Hats",
-      "price": 40,
-      "priceMax": 40,
+      "price": 200,
+      "priceMax": 200,
+      "photo": null
+    },
+    {
+      "id": "HFYNXUOSKW7IAKYWRTQEYGVV",
+      "name": "HAT: Queens Pink Rancher Signature Experience",
+      "category": "Hats",
+      "price": 200,
+      "priceMax": 200,
       "photo": null
     },
     {
@@ -408,6 +464,62 @@
       "price": 200,
       "priceMax": 200,
       "photo": "square-photos/GHTVVC4RRLD7OYC5WCBNWRPM.jpeg"
+    },
+    {
+      "id": "V6GHBNPFOJ74MC6JODLYV3EM",
+      "name": "PIN: 14k Gold Mini Longhorn",
+      "category": "Pins",
+      "price": 5,
+      "priceMax": 5,
+      "photo": "square-photos/SMWHRLGLZFS45WJGPA52AXJL.png"
+    },
+    {
+      "id": "W2NHFCYOO27AHNBZ2YTVERC2",
+      "name": "PIN: CZ and Gold Longhorn",
+      "category": "Pins",
+      "price": 10,
+      "priceMax": 10,
+      "photo": "square-photos/OM7P57XDYS6RLINRPHOK2WKA.png"
+    },
+    {
+      "id": "OOMSA7C7TGUQGHTRVO3WRBYE",
+      "name": "PIN: Mini Humming Bird",
+      "category": "Pins",
+      "price": 5,
+      "priceMax": 5,
+      "photo": "square-photos/F45H6GUF5Y7T4IZ5UF3IJ2NB.png"
+    },
+    {
+      "id": "N5K5XCDWC33MQXHF2IDGJMW6",
+      "name": "PIN: Mini Texas",
+      "category": "Pins",
+      "price": 5,
+      "priceMax": 5,
+      "photo": "square-photos/BFCQBDSR36TZPAKO6SKQPKTD.png"
+    },
+    {
+      "id": "HPMCWZ2ZOGZING67UACAHPB2",
+      "name": "PIN: Rhinestone Football",
+      "category": "Pins",
+      "price": 5,
+      "priceMax": 5,
+      "photo": "square-photos/4UO5VWH2CMZTYF47DYK2JGMR.png"
+    },
+    {
+      "id": "4GX4OCYWNSFBYPLVN2U25LAZ",
+      "name": "PIN: Sterling Silver Mini Longhorn",
+      "category": "Pins",
+      "price": 5,
+      "priceMax": 5,
+      "photo": "square-photos/UI4MLV6OFVIPQNQMLNUIVVH2.png"
+    },
+    {
+      "id": "CCYOI7F524LJWJGW5LCKXI4F",
+      "name": "PINS: Pin (Large)",
+      "category": "Pins",
+      "price": 10,
+      "priceMax": 10,
+      "photo": null
     }
   ]
 }
