@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T17:03:12.804Z",
+  "generatedAt": "2026-09-14T17:26:06.958Z",
   "items": [
     {
       "id": "DM565NCAUIVSA2AGC6AHV2MF",
@@ -23,15 +23,7 @@
       "category": "Bands",
       "price": 40,
       "priceMax": 40,
-      "photo": "square-photos/K2MUEBFP3JEN26JY3UUSWXXC.png"
-    },
-    {
-      "id": "FZXPUKNWSR3FJQ5ZFNKZV6NB",
-      "name": "BANDS: Feather/turquoise stone band",
-      "category": "Bands",
-      "price": 50,
-      "priceMax": 50,
-      "photo": "square-photos/3DK2JFMY3TTFBIS3YF4YYHS7.png"
+      "photo": "square-photos/MBW4I7NBBMPNJTORS6QL3QVE.jpeg"
     },
     {
       "id": "67A6LIP6J2JUXABG3ZYNPQC2",
@@ -104,6 +96,14 @@
       "price": 5,
       "priceMax": 5,
       "photo": null
+    },
+    {
+      "id": "FZXPUKNWSR3FJQ5ZFNKZV6NB",
+      "name": "BANDS: Willow Lane Western Feather Hat Band - Ridgeline",
+      "category": "Bands",
+      "price": 50,
+      "priceMax": 50,
+      "photo": "square-photos/RVBYL2EOGHHAE6DFM53DGLLK.jpeg"
     },
     {
       "id": "JM7S6NAWMSRG7E2U5PFNTS6T",
@@ -290,35 +290,51 @@
       "photo": "square-photos/NG6ATYNAGHPS2IXHBZNOG6QI.jpeg"
     },
     {
+      "id": "7TMFWYVVJPYMQLJHOONG473M",
+      "name": "AHM: Teal Wool Rancher - Signature Package",
+      "category": "Hats",
+      "price": 250,
+      "priceMax": 250,
+      "photo": null
+    },
+    {
       "id": "V43YVECTROXBQMUMGVNW43CN",
       "name": "HAT: AHM  Wool Rancher - Stone + Basic Package Copy",
       "category": "Hats",
-      "price": 225,
-      "priceMax": 225,
+      "price": 250,
+      "priceMax": 250,
       "photo": "square-photos/72D2WG2IIU23EEX6PZGDOXSB.jpeg"
     },
     {
       "id": "6NQDGFHPT72N7EP5EMRPGYC6",
       "name": "HAT: AHM Austin Straw Cattleman - Cream + Basic Customization Package",
       "category": "Hats",
-      "price": 225,
-      "priceMax": 225,
+      "price": 250,
+      "priceMax": 250,
       "photo": "square-photos/2X6X5S63WLSBOMPBRUYEKO7O.jpeg"
     },
     {
       "id": "7ANQ6SXGS3GFOUYZMMZBBA6V",
-      "name": "HAT: AHM Wool Cattleman - Black + Basic Customization Package",
+      "name": "HAT: AHM Felt Cattleman + Basic Customization Package",
       "category": "Hats",
-      "price": 225,
-      "priceMax": 225,
+      "price": 250,
+      "priceMax": 250,
       "photo": "square-photos/64NEXIZ6EC722ICQFQDHMKKT.jpeg"
+    },
+    {
+      "id": "ADUDLMWVFGL76QGKYOCV5Y3C",
+      "name": "HAT: AHM Small Town + Basic Customization Package",
+      "category": "Hats",
+      "price": 250,
+      "priceMax": 250,
+      "photo": null
     },
     {
       "id": "WOODT3DFFM5BXECJTW5B7M5I",
       "name": "HAT: AHM Wool Rancher  - Sand + Basic Customization Package",
       "category": "Hats",
-      "price": 225,
-      "priceMax": 225,
+      "price": 250,
+      "priceMax": 250,
       "photo": "square-photos/FX4XUXN3FBQFLGDNKWZQSP7Z.jpeg"
     },
     {
@@ -386,14 +402,6 @@
       "photo": "square-photos/TF5PIKNXQBEE4SQYYI6TTPPW.jpeg"
     },
     {
-      "id": "WACVPHOV4Y4JSVIAN2LLWMPP",
-      "name": "HAT: Austrian Wool Rancher - Taupe + Basic Package",
-      "category": "Hats",
-      "price": 200,
-      "priceMax": 200,
-      "photo": "square-photos/TF5PIKNXQBEE4SQYYI6TTPPW.jpeg"
-    },
-    {
       "id": "4MD75YBFUCQZN2CZYRJKU3PM",
       "name": "HAT: Paper Straw Wide Brim Cowboy - Black + Basic Package",
       "category": "Hats",
@@ -418,12 +426,36 @@
       "photo": "square-photos/YYBNFEKMRAZKQANSXFMRPHOB.jpeg"
     },
     {
-      "id": "XBBU3FIOYLPPHWI4CZ25DC4Q",
-      "name": "HAT: Queens Australian Wool Rancher - Wine + Basic Customization Package Copy",
+      "id": "DQ6BVHUSTTXFJS3QSBDJROWA",
+      "name": "HAT: Queens Australian Wool Cattleman Shapeable Brim Premium + Basic Customization Package",
       "category": "Hats",
       "price": 200,
       "priceMax": 200,
       "photo": null
+    },
+    {
+      "id": "3AM3TJVORTAUX5TIS7PDLSFT",
+      "name": "HAT: Queens Australian Wool Rancher Premium Western + Basic Customization Package",
+      "category": "Hats",
+      "price": 200,
+      "priceMax": 200,
+      "photo": null
+    },
+    {
+      "id": "XBBU3FIOYLPPHWI4CZ25DC4Q",
+      "name": "HAT: Queens Australian Wool Rancher with Band + Basic Customization Package",
+      "category": "Hats",
+      "price": 200,
+      "priceMax": 200,
+      "photo": null
+    },
+    {
+      "id": "WACVPHOV4Y4JSVIAN2LLWMPP",
+      "name": "HAT: Queens Austrian Wool Pinch Cowboy + Basic Customization Package",
+      "category": "Hats",
+      "price": 200,
+      "priceMax": 200,
+      "photo": "square-photos/TF5PIKNXQBEE4SQYYI6TTPPW.jpeg"
     },
     {
       "id": "HFYNXUOSKW7IAKYWRTQEYGVV",
@@ -466,16 +498,8 @@
       "photo": "square-photos/GHTVVC4RRLD7OYC5WCBNWRPM.jpeg"
     },
     {
-      "id": "V6GHBNPFOJ74MC6JODLYV3EM",
-      "name": "PIN: 14k Gold Mini Longhorn",
-      "category": "Pins",
-      "price": 5,
-      "priceMax": 5,
-      "photo": "square-photos/SMWHRLGLZFS45WJGPA52AXJL.png"
-    },
-    {
       "id": "W2NHFCYOO27AHNBZ2YTVERC2",
-      "name": "PIN: CZ and Gold Longhorn",
+      "name": "PIN: CZ Bull Head",
       "category": "Pins",
       "price": 10,
       "priceMax": 10,
@@ -483,11 +507,27 @@
     },
     {
       "id": "OOMSA7C7TGUQGHTRVO3WRBYE",
-      "name": "PIN: Mini Humming Bird",
+      "name": "PIN: Mini Hummingbird",
       "category": "Pins",
       "price": 5,
       "priceMax": 5,
       "photo": "square-photos/F45H6GUF5Y7T4IZ5UF3IJ2NB.png"
+    },
+    {
+      "id": "V6GHBNPFOJ74MC6JODLYV3EM",
+      "name": "PIN: Mini Longhorn — Gold Dipped",
+      "category": "Pins",
+      "price": 5,
+      "priceMax": 5,
+      "photo": "square-photos/SMWHRLGLZFS45WJGPA52AXJL.png"
+    },
+    {
+      "id": "4GX4OCYWNSFBYPLVN2U25LAZ",
+      "name": "PIN: Mini Longhorn — White Gold",
+      "category": "Pins",
+      "price": 5,
+      "priceMax": 5,
+      "photo": "square-photos/UI4MLV6OFVIPQNQMLNUIVVH2.png"
     },
     {
       "id": "N5K5XCDWC33MQXHF2IDGJMW6",
@@ -499,19 +539,11 @@
     },
     {
       "id": "HPMCWZ2ZOGZING67UACAHPB2",
-      "name": "PIN: Rhinestone Football",
+      "name": "PIN: Studded Mini Football",
       "category": "Pins",
       "price": 5,
       "priceMax": 5,
       "photo": "square-photos/4UO5VWH2CMZTYF47DYK2JGMR.png"
-    },
-    {
-      "id": "4GX4OCYWNSFBYPLVN2U25LAZ",
-      "name": "PIN: Sterling Silver Mini Longhorn",
-      "category": "Pins",
-      "price": 5,
-      "priceMax": 5,
-      "photo": "square-photos/UI4MLV6OFVIPQNQMLNUIVVH2.png"
     },
     {
       "id": "CCYOI7F524LJWJGW5LCKXI4F",
