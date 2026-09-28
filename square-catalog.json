@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T17:40:07.672Z",
+  "generatedAt": "2026-09-28T19:06:19.945Z",
   "items": [
     {
       "id": "DM565NCAUIVSA2AGC6AHV2MF",
@@ -402,6 +402,14 @@
       "photo": "square-photos/TF5PIKNXQBEE4SQYYI6TTPPW.jpeg"
     },
     {
+      "id": "ISXB7RT7N2TEZSI3FCRXACYH",
+      "name": "HAT: Deputy Cowboy Felt + Basic Customization Package",
+      "category": "Hats",
+      "price": 250,
+      "priceMax": 250,
+      "photo": null
+    },
+    {
       "id": "4MD75YBFUCQZN2CZYRJKU3PM",
       "name": "HAT: Paper Straw Wide Brim Cowboy - Black + Basic Package",
       "category": "Hats",
@@ -482,6 +490,30 @@
       "photo": "square-photos/25VXGK3JRACKD3ATSVVO5J36.jpeg"
     },
     {
+      "id": "QRSXFVM4TNFJMKQ44NLFYHAZ",
+      "name": "HAT: Rancher + Basic Customization Package",
+      "category": "Hats",
+      "price": 250,
+      "priceMax": 250,
+      "photo": null
+    },
+    {
+      "id": "NY7BXARYHMQ6CNOPET5KJ344",
+      "name": "HAT: Rancher + Customization Experience",
+      "category": "Hats",
+      "price": 250,
+      "priceMax": 250,
+      "photo": null
+    },
+    {
+      "id": "BUZOGYRHDZIIDF2DT7LJVS6M",
+      "name": "HAT: Rustler Fedora + Basic Customization Package",
+      "category": "Hats",
+      "price": 250,
+      "priceMax": 250,
+      "photo": null
+    },
+    {
       "id": "N3R7KAEVBXZCBMRYBKJMHSRW",
       "name": "HAT: Starched Straw Wide Brim Cowboy - Brown + Basic Package",
       "category": "Hats",
@@ -496,6 +528,14 @@
       "price": 200,
       "priceMax": 200,
       "photo": "square-photos/GHTVVC4RRLD7OYC5WCBNWRPM.jpeg"
+    },
+    {
+      "id": "MYE3F7LERGAMSR774MRURPKZ",
+      "name": "HAT: Trigger Brick Cowboy Faux Suede + Basic Customization Package",
+      "category": "Hats",
+      "price": 250,
+      "priceMax": 250,
+      "photo": null
     },
     {
       "id": "W2NHFCYOO27AHNBZ2YTVERC2",
