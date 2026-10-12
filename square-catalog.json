@@ -1,12 +1,172 @@
 {
-  "generatedAt": "2026-09-28T19:06:19.945Z",
+  "generatedAt": "2026-10-12T20:45:25.767Z",
   "items": [
+    {
+      "id": "2V2TVDAHBVRLVMN5HJ3Z6J3W",
+      "name": "Animal Print Leather Hat Band Variety Pack – 3 Pack",
+      "category": "Bands",
+      "price": 66,
+      "priceMax": 66,
+      "photo": "square-photos/UAJK42FLK355UFIJITWTBZLZ.jpeg"
+    },
+    {
+      "id": "DLH5NVJIAU5C7QHRGSJNGCZO",
+      "name": "BAND: African Turquoise Stone Hat Band",
+      "category": "Bands",
+      "price": 35,
+      "priceMax": 35,
+      "photo": "square-photos/HXRODZ2PCVFFBRTW2PJFADED.jpeg"
+    },
+    {
+      "id": "2WUMSUYDW6TYGTZUZ6XGXZ4I",
+      "name": "BAND: Black Jasper Stone Hat Band",
+      "category": "Bands",
+      "price": 35,
+      "priceMax": 35,
+      "photo": "square-photos/HAL3J7FHGALJBIF4B3OSYLIH.jpeg"
+    },
+    {
+      "id": "RSNXPURMDVXKKLS7WIENGISN",
+      "name": "BAND: Blue Feather Hat Band - Pearl",
+      "category": "Bands",
+      "price": 35,
+      "priceMax": 35,
+      "photo": "square-photos/64R6DJKY3XN5NKFODABF46CM.jpeg"
+    },
+    {
+      "id": "CDYKPTBZZNWUTNGV5ZULQBN4",
+      "name": "BAND: Braided Leather Hat Band",
+      "category": "Bands",
+      "price": 20,
+      "priceMax": 20,
+      "photo": "square-photos/BLOCAUMG6KP7IEPBL5AD3KT3.jpeg"
+    },
+    {
+      "id": "NWEPMD4HL3FR2HPQPNPTYXWL",
+      "name": "BAND: Brown Tooled Floral Leather Buckle Hat Band - Cody",
+      "category": "Bands",
+      "price": 30,
+      "priceMax": 30,
+      "photo": "square-photos/GJLFQHRMF2Q4U73MH4XMX6BH.jpeg"
+    },
+    {
+      "id": "VULGZMCB4PN5VNPNSDPI4BXC",
+      "name": "BAND: Chunky Deep Blue Stone Hat Band - Briggs",
+      "category": "Bands",
+      "price": 40,
+      "priceMax": 40,
+      "photo": "square-photos/WGUAVH5NZVXSTBJ3MAM3H37S.jpeg"
+    },
+    {
+      "id": "BFW5FT4EYJTHDTYJ5HMDGSHO",
+      "name": "BAND: Chunky Green Stone Hat Band - Wade",
+      "category": "Bands",
+      "price": 40,
+      "priceMax": 40,
+      "photo": "square-photos/WYK4AUWNRVFEW3UYDI3VV3DW.jpeg"
+    },
+    {
+      "id": "LUOV2BZHCPFCF5MDGHGCKFG7",
+      "name": "BAND: Chunky Purple Stone Hat Band - Aether",
+      "category": "Bands",
+      "price": 40,
+      "priceMax": 40,
+      "photo": "square-photos/W6KDUCECWS5FIE4ZYO3SRUJS.jpeg"
+    },
+    {
+      "id": "VHJ2WJDLYXPN7QVCNPJLGEAK",
+      "name": "BAND: Chunky Turquoise Stone Hat Band - Ellis",
+      "category": "Bands",
+      "price": 40,
+      "priceMax": 40,
+      "photo": "square-photos/ZHW2FUX5GSDJLYLXRRCZYOGI.jpeg"
+    },
+    {
+      "id": "CH62CVBWXY64OSP7F346U7ZB",
+      "name": "BAND: Chunky Turquoise Stone Hat Band - West",
+      "category": "Bands",
+      "price": 40,
+      "priceMax": 40,
+      "photo": "square-photos/AIFEZ5H7VWXTQMZQCBX266F2.jpeg"
+    },
+    {
+      "id": "UD44BHSBCP3YUOSGDOU6NADF",
+      "name": "BAND: Cowhide Hat Band with Silver Buckle - Branson",
+      "category": "Bands",
+      "price": 30,
+      "priceMax": 30,
+      "photo": "square-photos/SQKL46DV7AFT44CEOULE73QX.jpeg"
+    },
+    {
+      "id": "VGNJEO2B7PTTGAU6F2DI447Y",
+      "name": "BAND: Cowhide Hat Band with Silver Buckle - Stockton",
+      "category": "Bands",
+      "price": 30,
+      "priceMax": 30,
+      "photo": "square-photos/USDJ5IE2Z7Q3PDDJWS4AGQVN.jpeg"
+    },
+    {
+      "id": "I66UQSGQU4CHPOWLPX6JI6II",
+      "name": "BAND: Cream Multi-Strand Beaded Hat Band",
+      "category": "Bands",
+      "price": 30,
+      "priceMax": 30,
+      "photo": "square-photos/BKGYIA74GCARQECVNAO445MI.jpeg"
+    },
+    {
+      "id": "FNWBOL6ZRYOWIG7E4S6LZYJH",
+      "name": "BAND: Genuine Horsehair 5 Strand Braided Hat Band - Stedfast",
+      "category": "Bands",
+      "price": 35,
+      "priceMax": 35,
+      "photo": "square-photos/EV7W6O6BLXGKX7V5ESFZXQYX.jpeg"
+    },
+    {
+      "id": "MMJZSYA6Y4I7BBZ55VS5GGFU",
+      "name": "BAND: Genuine Horsehair 5 Strand Braided Hat Band with Single Tassel - Duster",
+      "category": "Bands",
+      "price": 35,
+      "priceMax": 35,
+      "photo": "square-photos/NO53PYFKKYLK24BB5SYINSDI.jpeg"
+    },
+    {
+      "id": "IMGYNVW2BKI7YYZ3VFZYAR47",
+      "name": "BAND: Genuine Horsehair 5 Strand Braided Hat Band with Single Tassel - Pacesetter",
+      "category": "Bands",
+      "price": 35,
+      "priceMax": 35,
+      "photo": "square-photos/SABYXCEEHAETUJ5GMIBNQBMU.jpeg"
+    },
+    {
+      "id": "N5WXCZI3AIL2U26Q2SCVAIYI",
+      "name": "BAND: Gold Rhinestone Bling Hat Band - The Kate",
+      "category": "Bands",
+      "price": 30,
+      "priceMax": 30,
+      "photo": "square-photos/DPHPCGE7HNRAKGCRY3SQDDSD.jpeg"
+    },
+    {
+      "id": "4UZGP4UZ4DXQMCLGXXGROLTX",
+      "name": "BANDS: 14K Gold Plated Longhorn Chain Hat Band",
+      "category": "Bands",
+      "price": 35,
+      "priceMax": 35,
+      "photo": "square-photos/CZAF3X2KYBGMZKMP7JVGVFXI.jpeg"
+    },
+    {
+      "id": "XAVJHOKAXHDWVNQKYDIZJQDV",
+      "name": "BANDS: Antiqued Concho Hat Band – Briscoe",
+      "category": "Bands",
+      "price": 25,
+      "priceMax": 25,
+      "photo": "square-photos/Q3FOM5OKGW3IF37OE6FXBCOP.jpeg"
+    },
     {
       "id": "DM565NCAUIVSA2AGC6AHV2MF",
       "name": "BANDS: Barbed Wire Leather Cord",
       "category": "Bands",
-      "price": 8,
-      "priceMax": 8,
+      "price": 10,
+      "priceMax": 10,
       "photo": "square-photos/YB4G4EPNUGSXKKXNYDWG3LCO.jpeg"
     },
     {
@@ -18,6 +178,22 @@
       "photo": "square-photos/PGH3DTO2M2GGJK4C6QNKG7XL.jpeg"
     },
     {
+      "id": "L63DIBOEIM3BX2ASZMPEJRYI",
+      "name": "BANDS: Chunky Turquoise Stone Hat Band - West",
+      "category": "Bands",
+      "price": 35,
+      "priceMax": 35,
+      "photo": "square-photos/HCCT4CK3HLVRZVQVWSSQARCS.jpeg"
+    },
+    {
+      "id": "VY3JQ2YU6MNOCHDBYDP2TIBJ",
+      "name": "BANDS: Diamond Concho Hat Band",
+      "category": "Bands",
+      "price": 25,
+      "priceMax": 25,
+      "photo": "square-photos/C37RLIM7IN7HLL5OI7ASZ4KC.jpeg"
+    },
+    {
       "id": "2SZPKHXKFJB4VKMXQEYS3Y4E",
       "name": "BANDS: Feather Band - Riverbend",
       "category": "Bands",
@@ -26,19 +202,51 @@
       "photo": "square-photos/MBW4I7NBBMPNJTORS6QL3QVE.jpeg"
     },
     {
+      "id": "4DOBHJVPDPNRZHIZ3QBVEH4P",
+      "name": "BANDS: Feather Hat Band - Dove I",
+      "category": "Bands",
+      "price": 40,
+      "priceMax": 40,
+      "photo": "square-photos/B57ZLS7PVMVEJYKROTKEBZ2D.jpeg"
+    },
+    {
+      "id": "KK4VAZAUAJEPU3IJHW23IC43",
+      "name": "BANDS: Feather Hat Band - Dove II",
+      "category": "Bands",
+      "price": 40,
+      "priceMax": 40,
+      "photo": "square-photos/V2DLKDURO3SG42VCMCGQ65RJ.jpeg"
+    },
+    {
+      "id": "Y76AY6JJ354GOQEHT3N5FQJD",
+      "name": "BANDS: Iridescent Black Feather Hat Band - Sable",
+      "category": "Bands",
+      "price": 40,
+      "priceMax": 40,
+      "photo": "square-photos/CZXP4EWR5PNJFEGGHNVFEXQ6.jpeg"
+    },
+    {
+      "id": "AVA5BME5EWUPPQRUMSSNRAKS",
+      "name": "BANDS: Iridescent Green Feather Hat Band - Ridge",
+      "category": "Bands",
+      "price": 40,
+      "priceMax": 40,
+      "photo": "square-photos/IIWIHUQF2UG33WQRU3OWFPUG.jpeg"
+    },
+    {
       "id": "67A6LIP6J2JUXABG3ZYNPQC2",
       "name": "BANDS: Leather Band",
       "category": "Bands",
-      "price": 8,
-      "priceMax": 8,
+      "price": 20,
+      "priceMax": 20,
       "photo": "square-photos/UB75X66DALKT5SHT5VOLQKAI.jpeg"
     },
     {
       "id": "XE6RMXRX4SYVINQ366HOL5ET",
       "name": "BANDS: Leather Cord",
       "category": "Bands",
-      "price": 5,
-      "priceMax": 5,
+      "price": 10,
+      "priceMax": 10,
       "photo": "square-photos/53W3WDWVUUKLCSLBQSIDTYEF.jpeg"
     },
     {
@@ -77,9 +285,33 @@
       "id": "NG5HIVFYE4TYSS44IJOWHAFV",
       "name": "BANDS: Signature Band",
       "category": "Bands",
-      "price": 3,
-      "priceMax": 3,
+      "price": 5,
+      "priceMax": 5,
       "photo": null
+    },
+    {
+      "id": "XFJKVCBZAGCK7GV7B3RXISQZ",
+      "name": "BANDS: Silver Concho Hat Band - Palomino",
+      "category": "Bands",
+      "price": 25,
+      "priceMax": 25,
+      "photo": "square-photos/4INQTTKIP2SIOV4GALXSAIHX.jpeg"
+    },
+    {
+      "id": "57BG4GIGXLMFBZ6ROPXK2GJR",
+      "name": "BANDS: Silver Concho Hat Band - Sundancer",
+      "category": "Bands",
+      "price": 25,
+      "priceMax": 25,
+      "photo": "square-photos/GQL52SSCSIXWOOJRWLWUEKV6.jpeg"
+    },
+    {
+      "id": "5IYBLWLA3TY4VDLOZLAYM73M",
+      "name": "BANDS: Turquoise & Grey Stone Chain Hat Band – Ada",
+      "category": "Bands",
+      "price": 35,
+      "priceMax": 35,
+      "photo": "square-photos/5AI6PX5YEOGNF6SKIWL3QSPV.jpeg"
     },
     {
       "id": "ZLWPRI326D4OO6DYZ4CBM74K",
@@ -93,17 +325,145 @@
       "id": "TTT4W34AK7MDCXIPJUL36TCR",
       "name": "BANDS: Vegan Leather Band",
       "category": "Bands",
-      "price": 5,
-      "priceMax": 5,
+      "price": 8,
+      "priceMax": 8,
       "photo": null
     },
     {
       "id": "FZXPUKNWSR3FJQ5ZFNKZV6NB",
-      "name": "BANDS: Willow Lane Western Feather Hat Band - Ridgeline",
+      "name": "BANDS: Western Feather Hat Band - Ridgeline",
       "category": "Bands",
-      "price": 50,
-      "priceMax": 50,
+      "price": 40,
+      "priceMax": 40,
       "photo": "square-photos/RVBYL2EOGHHAE6DFM53DGLLK.jpeg"
+    },
+    {
+      "id": "ICZ4KA6UGW4HNN7JYENNRKXY",
+      "name": "BANDS: Willow Lane Brown Leather Hat Band - Assorted",
+      "category": "Bands",
+      "price": 20,
+      "priceMax": 20,
+      "photo": "square-photos/XBBUOVELQWHWQOZVRC7ZUCAT.jpeg"
+    },
+    {
+      "id": "VNQ4SGQWD6YNL2LXPOSGEZR6",
+      "name": "BANDS: Willow Lane Green Leather Hat Band - Assorted",
+      "category": "Bands",
+      "price": 20,
+      "priceMax": 20,
+      "photo": "square-photos/E7OHCMYQTFLR3FUTWSJ7Y2Z7.jpeg"
+    },
+    {
+      "id": "6FZKODONXFB66NKHOJ7CGYHT",
+      "name": "BANDS: Willow Lane Leather Hat Band – Slate Croc",
+      "category": "Bands",
+      "price": 20,
+      "priceMax": 20,
+      "photo": "square-photos/QRGXHS6NJ7TDF7Q62CMIPDAJ.jpeg"
+    },
+    {
+      "id": "LKDRUOMJGVIALPAR6UIUASV6",
+      "name": "BANDS: Willow Lane Neutral Leather Hat Band - Assorted",
+      "category": "Bands",
+      "price": 20,
+      "priceMax": 20,
+      "photo": "square-photos/UBV6M3DBGKPMVPJFKJINUAV5.jpeg"
+    },
+    {
+      "id": "7JK75WQVSMUEHDGDV5S2BKSN",
+      "name": "BANDS: Willow Lane Orange Leather Hat Band - Assorted",
+      "category": "Bands",
+      "price": 20,
+      "priceMax": 20,
+      "photo": "square-photos/OVZR3FDD7WGW6DKBLUXF3RJX.jpeg"
+    },
+    {
+      "id": "VXLSFLYOJUMS4XQ6PNVLV6PR",
+      "name": "BANDS: Willow Lane Pink & Purple Leather Hat Band - Assorted",
+      "category": "Bands",
+      "price": 20,
+      "priceMax": 20,
+      "photo": "square-photos/AUXUBKPSRFLLC7COYKKOG2O4.jpeg"
+    },
+    {
+      "id": "FGBALUBQLQUOSL5PMBMIA2S5",
+      "name": "BANDS: Willow Lane Red Leather Hat Band - Assorted",
+      "category": "Bands",
+      "price": 20,
+      "priceMax": 20,
+      "photo": "square-photos/XMC6MHJVUGYHWO2OPGQ5P5E5.jpeg"
+    },
+    {
+      "id": "P7WGBDMTV6DI6O23INH7QKWG",
+      "name": "BANDS: Willow Lane White Boot Stitch Leather Hat Band",
+      "category": "Bands",
+      "price": 30,
+      "priceMax": 30,
+      "photo": "square-photos/2ILH6COMX3BJYRTW4ZXNACLC.jpeg"
+    },
+    {
+      "id": "PAVXHQMX4O2REIPCZ3MZYQ2V",
+      "name": "FEATHER: Feather Hat Band - Shea",
+      "category": "Bands",
+      "price": 35,
+      "priceMax": 35,
+      "photo": "square-photos/3SHI53L4JFBZLAS67U5JKFKI.jpeg"
+    },
+    {
+      "id": "OHVTZXEOCOM7BTNW7QHGRMQP",
+      "name": "Iridescent Green Feather Hat Band - Ridge",
+      "category": "Bands",
+      "price": 40,
+      "priceMax": 40,
+      "photo": "square-photos/LHTMTCNFPKK2VH2UIQRMXJT3.jpeg"
+    },
+    {
+      "id": "NKHWUEPTCU2BT6KZTZK2DDVL",
+      "name": "Lilac Purple Stone Hat Band",
+      "category": "Bands",
+      "price": 35,
+      "priceMax": 35,
+      "photo": "square-photos/PKB7O7OUTNQR6VPUCW2NW4JY.jpeg"
+    },
+    {
+      "id": "H7SPA6TQMHX5EIQVPXAQJ6G7",
+      "name": "Maroon Lane Stitch Beaded Hat Band",
+      "category": "Bands",
+      "price": 25,
+      "priceMax": 25,
+      "photo": "square-photos/X2QS5RUFZE3L6SXWFVGYHHDN.jpeg"
+    },
+    {
+      "id": "XY7RGT4KRG636VFW2OTHBPI5",
+      "name": "Rose Gold Rhinestone Bling Hat Band - The Kate",
+      "category": "Bands",
+      "price": 32,
+      "priceMax": 32,
+      "photo": "square-photos/US7W5BQ67UOH3VDBW33YUC3K.jpeg"
+    },
+    {
+      "id": "ZAOVXJDTZHCUZFIUOETDVMCR",
+      "name": "Western Feather Hat Band - Beau",
+      "category": "Bands",
+      "price": 41,
+      "priceMax": 41,
+      "photo": "square-photos/ZZGWLWGOBSNMINHIN36K4GF4.jpeg"
+    },
+    {
+      "id": "2HAHLYCWW2TK4WSXO2KFEFZB",
+      "name": "Western Feather Hat Band - Oakley",
+      "category": "Bands",
+      "price": 42,
+      "priceMax": 42,
+      "photo": "square-photos/VKVKUPOJK2X5G4KLU4GF7SFG.jpeg"
+    },
+    {
+      "id": "LHRJ6U6STWFUXVOJAZLVYA4Z",
+      "name": "Western Feather Hat Band - Ridgeline",
+      "category": "Bands",
+      "price": 53,
+      "priceMax": 53,
+      "photo": "square-photos/MBT4AEXP2X6QV7NXSB4IEUZN.jpeg"
     },
     {
       "id": "JM7S6NAWMSRG7E2U5PFNTS6T",
@@ -149,88 +509,88 @@
       "id": "ZAE76Y2A6DL5M2PXL6YMMDPW",
       "name": "DETAILS: Bullet - Feather Holder Large",
       "category": "Details",
-      "price": 12,
-      "priceMax": 12,
+      "price": 15,
+      "priceMax": 15,
       "photo": null
     },
     {
       "id": "2HTMEQUGYQ7DNMQRBBOTNUAX",
       "name": "DETAILS: Bullet - Feather Holder Medium",
       "category": "Details",
-      "price": 10,
-      "priceMax": 10,
+      "price": 12,
+      "priceMax": 12,
       "photo": null
     },
     {
       "id": "F4AT3KTLAFL4BWECLXSJOHI3",
       "name": "DETAILS: Bullet - Feather Holder Small",
       "category": "Details",
-      "price": 8,
-      "priceMax": 8,
+      "price": 10,
+      "priceMax": 10,
       "photo": null
     },
     {
       "id": "AONOOOTADWOOOLHYL2EP73YK",
       "name": "DETAILS: Bullet Pin Large",
       "category": "Details",
-      "price": 7,
-      "priceMax": 7,
+      "price": 8,
+      "priceMax": 8,
       "photo": null
     },
     {
       "id": "FGF3KOYTXD2XGMVCXH4C6DZR",
       "name": "DETAILS: Bullet Pin Medium",
       "category": "Details",
-      "price": 6,
-      "priceMax": 6,
+      "price": 7,
+      "priceMax": 7,
       "photo": null
     },
     {
       "id": "A5YTPJC2HZ3JCUW5ZBPDAXY3",
       "name": "DETAILS: Bullet Pin Small",
       "category": "Details",
-      "price": 5,
-      "priceMax": 5,
+      "price": 6,
+      "priceMax": 6,
       "photo": null
     },
     {
       "id": "WYVLMRKKNNGCK536YNC2GNNI",
       "name": "DETAILS: Chain 1 - 6 Inch",
       "category": "Details",
-      "price": 5,
-      "priceMax": 5,
+      "price": 10,
+      "priceMax": 10,
       "photo": null
     },
     {
       "id": "O6EN34ZLHX55OGDRX52VPUI7",
       "name": "DETAILS: Chain 13-24 Inch",
       "category": "Details",
-      "price": 10,
-      "priceMax": 10,
+      "price": 15,
+      "priceMax": 15,
       "photo": null
     },
     {
       "id": "IZPWYHA2KZBZK2Q4KDH6IKDW",
       "name": "DETAILS: Chain 7 - 12 Inch",
       "category": "Details",
-      "price": 8,
-      "priceMax": 8,
+      "price": 18,
+      "priceMax": 18,
       "photo": null
     },
     {
       "id": "TSWKMBJH4DSUS6SB3IOWNWGV",
       "name": "DETAILS: Custom Branding",
       "category": "Details",
-      "price": 2,
-      "priceMax": 2,
+      "price": 3,
+      "priceMax": 3,
       "photo": "square-photos/ESHQQ2EBKS2B4AYL6XGOZJTL.jpeg"
     },
     {
       "id": "IMKEZ7LWBRS4ZP6V2CSDEOTP",
       "name": "DETAILS: Oracle Card Reading",
       "category": "Details",
-      "price": 8,
-      "priceMax": 8,
+      "price": 25,
+      "priceMax": 25,
       "photo": null
     },
     {
@@ -253,24 +613,96 @@
       "id": "BWZ3ZYC5M7P5IOJ22XIODWGD",
       "name": "DETAILS: Playing Card",
       "category": "Details",
-      "price": 2,
-      "priceMax": 2,
+      "price": 3,
+      "priceMax": 3,
       "photo": "square-photos/WJJU7FHX4H54OGXXMXNJ6HLQ.jpeg"
     },
     {
       "id": "SXFREAYUU3E6N36TOFRMTDWN",
       "name": "DETAILS: Porcupine Quill",
       "category": "Details",
-      "price": 2,
-      "priceMax": 2,
+      "price": 3,
+      "priceMax": 3,
       "photo": null
+    },
+    {
+      "id": "LMZDMJYG5KSZCFXVHC5VKM2Y",
+      "name": "BAND: Feather Hat Band - Vistoso",
+      "category": "Feathers",
+      "price": 36,
+      "priceMax": 36,
+      "photo": "square-photos/WROBSOV5ZRAPR5DZ7MTWJLJ7.jpeg"
+    },
+    {
+      "id": "VKL3UKXRLHVQ4ZQJQCF7GISO",
+      "name": "FEATHER: Feather Hat Accent - Cheyenne",
+      "category": "Feathers",
+      "price": 20,
+      "priceMax": 20,
+      "photo": "square-photos/KDKAXMP4QPYKEOSPZOOJOSZB.jpeg"
+    },
+    {
+      "id": "T644OEQ4YGKE4IU77LGNCXNE",
+      "name": "FEATHER: Feather Hat Accent - Kaweah",
+      "category": "Feathers",
+      "price": 20,
+      "priceMax": 20,
+      "photo": "square-photos/FWE4RD4QF7ZAFNHRHMWQ2EAO.jpeg"
+    },
+    {
+      "id": "PNONKNOGEI577VOU6QZZEMTN",
+      "name": "FEATHER: Feather Hat Accent - Risco",
+      "category": "Feathers",
+      "price": 20,
+      "priceMax": 20,
+      "photo": "square-photos/TAJPKEDIA6LPOH7OSNTKNTTP.jpeg"
+    },
+    {
+      "id": "ZLS5THWB6U24VFNTGJRHFEBD",
+      "name": "FEATHER: Feather Hat Accent - Showgirl",
+      "category": "Feathers",
+      "price": 20,
+      "priceMax": 20,
+      "photo": "square-photos/C7N3SHQFGPI4PJ5H4WWUNY5W.jpeg"
+    },
+    {
+      "id": "KIPRIKIGOES7PJ7LV663JPYY",
+      "name": "FEATHER: Feather Hat Accent - Sorrel",
+      "category": "Feathers",
+      "price": 20,
+      "priceMax": 20,
+      "photo": "square-photos/WJ4WZTAHTBH5KMUHPKCEIHUV.jpeg"
+    },
+    {
+      "id": "KYQ2Z7RKZ6IM4CTGPWMQ5D5N",
+      "name": "feather: Feather Hat Accent - Strut'n",
+      "category": "Feathers",
+      "price": 20,
+      "priceMax": 20,
+      "photo": "square-photos/GZLY4OLWTHIDOSI4DNHUUDFT.jpeg"
+    },
+    {
+      "id": "3T64F3U5Q63EOCWQEJRLZWNV",
+      "name": "FEATHER: Feather Hat Accent - Terlingua",
+      "category": "Feathers",
+      "price": 20,
+      "priceMax": 20,
+      "photo": "square-photos/3EFF6WKZ45LBLRL4RTUIBTLT.jpeg"
+    },
+    {
+      "id": "P7PLBNXMUGIZFTL5OPFNJ573",
+      "name": "FEATHER: Feather Hat Band - Falcon",
+      "category": "Feathers",
+      "price": 40,
+      "priceMax": 40,
+      "photo": "square-photos/F2KAPPVVQV2TH5CFVJHPJPUV.jpeg"
     },
     {
       "id": "ARH6KBT4FNK33VDW6D5XQAD4",
       "name": "FEATHERS: Botanical Accent",
       "category": "Feathers",
-      "price": 2,
-      "priceMax": 2,
+      "price": 3,
+      "priceMax": 3,
       "photo": null
     },
     {
@@ -285,17 +717,49 @@
       "id": "O4JTTAS2V6K3QP4S5B6IUXUA",
       "name": "FEATHERS: Signature Feather",
       "category": "Feathers",
-      "price": 2,
-      "priceMax": 2,
+      "price": 3,
+      "priceMax": 3,
       "photo": "square-photos/NG6ATYNAGHPS2IXHBZNOG6QI.jpeg"
     },
     {
-      "id": "7TMFWYVVJPYMQLJHOONG473M",
-      "name": "AHM: Teal Wool Rancher - Signature Package",
+      "id": "ZYGEMKJGAWBTCQUBMR7Z6CTF",
+      "name": "Iridescent Blue Feather Hat Band - Echo",
+      "category": "Feathers",
+      "price": 40,
+      "priceMax": 40,
+      "photo": "square-photos/INMZHJQWPTMXVRQLZWU4JXTS.jpeg"
+    },
+    {
+      "id": "J26OKIVY4IAZ5BBOCELNC6QC",
+      "name": "Western Feather Hat Band - Boyd",
+      "category": "Feathers",
+      "price": 44,
+      "priceMax": 44,
+      "photo": "square-photos/4NQ5V22RMEHBL7J5AKMUD6Y4.jpeg"
+    },
+    {
+      "id": "S5WKJ7FMUY4P5KZQ43VAIVDQ",
+      "name": "Western Feather Hat Band - Dune",
+      "category": "Feathers",
+      "price": 36,
+      "priceMax": 36,
+      "photo": "square-photos/QI3OGZKFSZW6ZQENUAFLR5RR.jpeg"
+    },
+    {
+      "id": "QODCH2OZJONX7IIKNCFVSFGP",
+      "name": "White Feather Hat Band - Luna",
+      "category": "Feathers",
+      "price": 41,
+      "priceMax": 41,
+      "photo": "square-photos/SCDWLTV3DNBRUNH5JF4VKIOV.jpeg"
+    },
+    {
+      "id": "7PQ3SZYJIHNUHN2ZUGHQZ6D4",
+      "name": "BAND: Black Braided Leather Hat Band",
       "category": "Hats",
-      "price": 250,
-      "priceMax": 250,
-      "photo": null
+      "price": 40,
+      "priceMax": 40,
+      "photo": "square-photos/27XRBLE3ESDHYP2RH765G7IT.jpeg"
     },
     {
       "id": "V43YVECTROXBQMUMGVNW43CN",
@@ -317,9 +781,17 @@
       "id": "7ANQ6SXGS3GFOUYZMMZBBA6V",
       "name": "HAT: AHM Felt Cattleman + Basic Customization Package",
       "category": "Hats",
+      "price": 285,
+      "priceMax": 285,
+      "photo": "square-photos/64NEXIZ6EC722ICQFQDHMKKT.jpeg"
+    },
+    {
+      "id": "QRSXFVM4TNFJMKQ44NLFYHAZ",
+      "name": "HAT: AHM Rancher + Luxe Experience",
+      "category": "Hats",
       "price": 250,
       "priceMax": 250,
-      "photo": "square-photos/64NEXIZ6EC722ICQFQDHMKKT.jpeg"
+      "photo": null
     },
     {
       "id": "ADUDLMWVFGL76QGKYOCV5Y3C",
@@ -341,8 +813,8 @@
       "id": "KTYZXB4PHZPX7A3XACHAJLZY",
       "name": "HAT: Australian Wool - Pinched Brim Black + Basic Customization Package",
       "category": "Hats",
-      "price": 200,
-      "priceMax": 200,
+      "price": 225,
+      "priceMax": 225,
       "photo": "square-photos/2VV7HHB2PFJVS6VFR6PLCMP3.jpeg"
     },
     {
@@ -365,16 +837,16 @@
       "id": "5EXVTSZ4FNPOVNKLN5F24BZH",
       "name": "HAT: Austrian Wool Pinched Cowboy - Ivory + Basic Package",
       "category": "Hats",
-      "price": 200,
-      "priceMax": 200,
+      "price": 225,
+      "priceMax": 225,
       "photo": "square-photos/ZQYQK5RSWN7672V32VVQWVH5.jpeg"
     },
     {
       "id": "J5NKKQFI3Q5XN55MX2SRQGRB",
       "name": "HAT: Austrian Wool Pinched Cowboy - Stone + Basic Package",
       "category": "Hats",
-      "price": 200,
-      "priceMax": 200,
+      "price": 225,
+      "priceMax": 225,
       "photo": "square-photos/MP75VCJ27WKGPPY2AATLRSIJ.jpeg"
     },
     {
@@ -389,81 +861,57 @@
       "id": "MXJTBS3XZOUFKJYETIJFSKZC",
       "name": "HAT: Austrian Wool Pinched Crown Cowboy Hat - Stone + Basic Package",
       "category": "Hats",
-      "price": 200,
-      "priceMax": 200,
+      "price": 225,
+      "priceMax": 225,
       "photo": "square-photos/72D2WG2IIU23EEX6PZGDOXSB.jpeg"
     },
     {
       "id": "DR7CI2S2DH2S2VYXQW72XYJR",
       "name": "HAT: Austrian Wool Rancher - Stone + Basic Package Copy",
       "category": "Hats",
-      "price": 200,
-      "priceMax": 200,
+      "price": 225,
+      "priceMax": 225,
       "photo": "square-photos/TF5PIKNXQBEE4SQYYI6TTPPW.jpeg"
     },
     {
       "id": "ISXB7RT7N2TEZSI3FCRXACYH",
       "name": "HAT: Deputy Cowboy Felt + Basic Customization Package",
       "category": "Hats",
-      "price": 250,
-      "priceMax": 250,
+      "price": 225,
+      "priceMax": 225,
       "photo": null
     },
     {
       "id": "4MD75YBFUCQZN2CZYRJKU3PM",
       "name": "HAT: Paper Straw Wide Brim Cowboy - Black + Basic Package",
       "category": "Hats",
-      "price": 200,
-      "priceMax": 200,
+      "price": 225,
+      "priceMax": 225,
       "photo": "square-photos/YYBNFEKMRAZKQANSXFMRPHOB.jpeg"
     },
     {
       "id": "YU3KU3KNACFWZ52S5OFQSUVW",
       "name": "HAT: Paper Straw Wide Brim Cowboy - Ivory + Basic Package",
       "category": "Hats",
-      "price": 200,
-      "priceMax": 200,
+      "price": 225,
+      "priceMax": 225,
       "photo": "square-photos/YYBNFEKMRAZKQANSXFMRPHOB.jpeg"
     },
     {
       "id": "2JWK6VG4GWKEQCC2YR43XAXH",
       "name": "HAT: Paper Straw Wide Brim Cowboy - Tan + Basic Package",
       "category": "Hats",
-      "price": 200,
-      "priceMax": 200,
+      "price": 225,
+      "priceMax": 225,
       "photo": "square-photos/YYBNFEKMRAZKQANSXFMRPHOB.jpeg"
     },
     {
       "id": "DQ6BVHUSTTXFJS3QSBDJROWA",
       "name": "HAT: Queens Australian Wool Cattleman Shapeable Brim Premium + Basic Customization Package",
       "category": "Hats",
-      "price": 200,
-      "priceMax": 200,
+      "price": 225,
+      "priceMax": 225,
       "photo": null
-    },
-    {
-      "id": "3AM3TJVORTAUX5TIS7PDLSFT",
-      "name": "HAT: Queens Australian Wool Rancher Premium Western + Basic Customization Package",
-      "category": "Hats",
-      "price": 200,
-      "priceMax": 200,
-      "photo": null
-    },
-    {
-      "id": "XBBU3FIOYLPPHWI4CZ25DC4Q",
-      "name": "HAT: Queens Australian Wool Rancher with Band + Basic Customization Package",
-      "category": "Hats",
-      "price": 200,
-      "priceMax": 200,
-      "photo": null
-    },
-    {
-      "id": "WACVPHOV4Y4JSVIAN2LLWMPP",
-      "name": "HAT: Queens Austrian Wool Pinch Cowboy + Basic Customization Package",
-      "category": "Hats",
-      "price": 200,
-      "priceMax": 200,
-      "photo": "square-photos/TF5PIKNXQBEE4SQYYI6TTPPW.jpeg"
     },
     {
       "id": "HFYNXUOSKW7IAKYWRTQEYGVV",
@@ -477,65 +925,449 @@
       "id": "GOXGNBXJ7HP47A5HGG2YFFPD",
       "name": "HAT: Queens Woven Straw Cowboy  - Black + Basic Package Copy Copy",
       "category": "Hats",
-      "price": 200,
-      "priceMax": 200,
+      "price": 225,
+      "priceMax": 225,
       "photo": "square-photos/AOH5BEIYAKIIPL55BE7CUX7W.jpeg"
     },
     {
       "id": "A42EN6STE4WV6DJUWM467CXZ",
       "name": "HAT: Queens Woven Straw Cowboy with  - White + Basic Package Copy",
       "category": "Hats",
-      "price": 200,
-      "priceMax": 200,
+      "price": 225,
+      "priceMax": 225,
       "photo": "square-photos/25VXGK3JRACKD3ATSVVO5J36.jpeg"
-    },
-    {
-      "id": "QRSXFVM4TNFJMKQ44NLFYHAZ",
-      "name": "HAT: Rancher + Basic Customization Package",
-      "category": "Hats",
-      "price": 250,
-      "priceMax": 250,
-      "photo": null
     },
     {
       "id": "NY7BXARYHMQ6CNOPET5KJ344",
       "name": "HAT: Rancher + Customization Experience",
       "category": "Hats",
-      "price": 250,
-      "priceMax": 250,
+      "price": 285,
+      "priceMax": 285,
       "photo": null
     },
     {
       "id": "BUZOGYRHDZIIDF2DT7LJVS6M",
       "name": "HAT: Rustler Fedora + Basic Customization Package",
       "category": "Hats",
-      "price": 250,
-      "priceMax": 250,
+      "price": 285,
+      "priceMax": 285,
       "photo": null
     },
     {
       "id": "N3R7KAEVBXZCBMRYBKJMHSRW",
       "name": "HAT: Starched Straw Wide Brim Cowboy - Brown + Basic Package",
       "category": "Hats",
-      "price": 200,
-      "priceMax": 200,
+      "price": 225,
+      "priceMax": 225,
       "photo": "square-photos/GHTVVC4RRLD7OYC5WCBNWRPM.jpeg"
     },
     {
       "id": "2KJWVEECQUG6VRJBBJ5FM7VE",
       "name": "HAT: Starched Straw Wide Brim Cowboy - Tan + Basic Package",
       "category": "Hats",
-      "price": 200,
-      "priceMax": 200,
+      "price": 225,
+      "priceMax": 225,
       "photo": "square-photos/GHTVVC4RRLD7OYC5WCBNWRPM.jpeg"
     },
     {
       "id": "MYE3F7LERGAMSR774MRURPKZ",
       "name": "HAT: Trigger Brick Cowboy Faux Suede + Basic Customization Package",
       "category": "Hats",
-      "price": 250,
-      "priceMax": 250,
+      "price": 285,
+      "priceMax": 285,
       "photo": null
+    },
+    {
+      "id": "7TMFWYVVJPYMQLJHOONG473M",
+      "name": "LUXE EXPERIENCE: Teal Wool Rancher",
+      "category": "Hats",
+      "price": 285,
+      "priceMax": 285,
+      "photo": null
+    },
+    {
+      "id": "QXGO6KPKMES63LPKOAVXVS5F",
+      "name": "Orange Multi-Strand Beaded Hat Band (Retired)",
+      "category": "Hats",
+      "price": 30,
+      "priceMax": 30,
+      "photo": "square-photos/ERRLNWPUUKZECLLC3E2RPUK4.jpeg"
+    },
+    {
+      "id": "XBBU3FIOYLPPHWI4CZ25DC4Q",
+      "name": "SIGNATURE EXPERIENCE: Australian Wool Rancher",
+      "category": "Hats",
+      "price": 225,
+      "priceMax": 225,
+      "photo": null
+    },
+    {
+      "id": "3AM3TJVORTAUX5TIS7PDLSFT",
+      "name": "SIGNATURE EXPERIENCE: Australian Wool Rancher Premium Western",
+      "category": "Hats",
+      "price": 225,
+      "priceMax": 225,
+      "photo": null
+    },
+    {
+      "id": "WACVPHOV4Y4JSVIAN2LLWMPP",
+      "name": "SIGNATURE EXPERIENCE: Austrian Wool Rancher",
+      "category": "Hats",
+      "price": 225,
+      "priceMax": 225,
+      "photo": "square-photos/TF5PIKNXQBEE4SQYYI6TTPPW.jpeg"
+    },
+    {
+      "id": "YX2N4D2FOJSLMBFZ6QEZVJQT",
+      "name": "BAND: Black Braided Leather Hat Band with Gold Slide Closure",
+      "category": "Other",
+      "price": 20,
+      "priceMax": 20,
+      "photo": "square-photos/PQ4G2TKUMSOLMEX4HXGKEIT6.jpeg"
+    },
+    {
+      "id": "AJ4OJ3NI74UQKH2LDCY3F3PW",
+      "name": "BAND: Brown Tooled Cross Stitch Pattern Leather Hat Band",
+      "category": "Other",
+      "price": 30,
+      "priceMax": 30,
+      "photo": "square-photos/U3HDLS74VE776ZWIP4Y64YKL.jpeg"
+    },
+    {
+      "id": "LJWCCJ4VAAN6JTNJ3AI6KECL",
+      "name": "BAND: Chunky Brown Jasper Stone Hat Band - Levi",
+      "category": "Other",
+      "price": 40,
+      "priceMax": 40,
+      "photo": "square-photos/DKH54BF2AKLTJ6ZVFJGGM4BM.jpeg"
+    },
+    {
+      "id": "ICQRYVGZC72V5GSZLM5WOKZ2",
+      "name": "BAND: Chunky Natural Stone Hat Band - Flint",
+      "category": "Other",
+      "price": 40,
+      "priceMax": 40,
+      "photo": "square-photos/6Z62DKHTQMVT2VZATK46WFYN.jpeg"
+    },
+    {
+      "id": "I44TZCZEWL22MEPVZH7HZKO4",
+      "name": "BAND: Chunky Pink Rose Stone Hat Band - Blush",
+      "category": "Other",
+      "price": 40,
+      "priceMax": 40,
+      "photo": "square-photos/DHRKYBO2RWQ2Z5NVU6SIH7AN.jpeg"
+    },
+    {
+      "id": "7BE7E7SGCJ5I3VBOCF2IU3EY",
+      "name": "BAND: Chunky Red Stone Hat Band - Ember",
+      "category": "Other",
+      "price": 40,
+      "priceMax": 40,
+      "photo": "square-photos/F3DYJKADDLPPGSNHVDF7JEIT.jpeg"
+    },
+    {
+      "id": "WGMC736PJYU47ULVB7PEIKI6",
+      "name": "Design fee",
+      "category": "Other",
+      "price": 50,
+      "priceMax": 50,
+      "photo": null
+    },
+    {
+      "id": "2OU2NQON4WEHZILOMZPE2J2R",
+      "name": "Feather Hat Band | Shea II",
+      "category": "Other",
+      "price": 40,
+      "priceMax": 40,
+      "photo": "square-photos/IX6S7FJI73KCFAZNF6W5TCYL.jpeg"
+    },
+    {
+      "id": "G6GS3C2TZ5PTPL5OSKMVF2OZ",
+      "name": "FEATHER: Leather Hat Band - Brazos",
+      "category": "Other",
+      "price": 35,
+      "priceMax": 35,
+      "photo": "square-photos/NGCQYX7LBGPKSBMAWS5P7OCB.jpeg"
+    },
+    {
+      "id": "RASJXYQ65RFI4YCBVS32Z4BT",
+      "name": "Leather hat band",
+      "category": "Other",
+      "price": 20,
+      "priceMax": 20,
+      "photo": null
+    },
+    {
+      "id": "HMM4PX4J7TA36OTX6XHSFK2M",
+      "name": "Maroon Multi-Strand Beaded Hat Band",
+      "category": "Other",
+      "price": 30,
+      "priceMax": 30,
+      "photo": "square-photos/VS24CE2ETJ4CEWHP7SEVVQ2Z.jpeg"
+    },
+    {
+      "id": "ZMKVLVM636JYJOHWLKKQ7NBD",
+      "name": "Orange Lane Stitch Beaded Hat Band",
+      "category": "Other",
+      "price": 25,
+      "priceMax": 25,
+      "photo": "square-photos/EUSGCTR6NY4NJ6AC3WLJD26V.jpeg"
+    },
+    {
+      "id": "U22BCX72KW5D74RFKC5OFQ3X",
+      "name": "Pink Feather Hat Band - Blossom",
+      "category": "Other",
+      "price": 43,
+      "priceMax": 43,
+      "photo": "square-photos/OKSGGO6KHIVQBE2LFWUOEHWN.jpeg"
+    },
+    {
+      "id": "RXZ33SDSHAWBKPSUCXEGOQC7",
+      "name": "Sandy Stone Hat Hat Band",
+      "category": "Other",
+      "price": 38,
+      "priceMax": 38,
+      "photo": "square-photos/NTKIPZGDLJW6FSSYYAEMQDDU.jpeg"
+    },
+    {
+      "id": "K4UBCYXRPIEV56UQHEEW6RVL",
+      "name": "Teal Multi-Strand Beaded Hat Band",
+      "category": "Other",
+      "price": 34,
+      "priceMax": 34,
+      "photo": "square-photos/LRQBD4ECKY5PQ3QZSGBMXPLL.jpeg"
+    },
+    {
+      "id": "HRN6N5H75ZL3HFLAKBZYAIII",
+      "name": "Twilly",
+      "category": "Other",
+      "price": 5,
+      "priceMax": 5,
+      "photo": null
+    },
+    {
+      "id": "DLM7GWK6USGUL2K4VCHAMZHW",
+      "name": "Western Feather Hat Band - Sonora",
+      "category": "Other",
+      "price": 40,
+      "priceMax": 40,
+      "photo": "square-photos/C64PMIE4ZD2DJQ3WUWAM2DB7.jpeg"
+    },
+    {
+      "id": "ZMWHRB47HLVPABWGY4SA6OP5",
+      "name": "Western Feather Hat Band - Weston",
+      "category": "Other",
+      "price": 42,
+      "priceMax": 42,
+      "photo": "square-photos/ONCGLBTKMB2I42GJ7SABH3P6.jpeg"
+    },
+    {
+      "id": "RPGO7H27I4YS3VE4CTZAR5PE",
+      "name": "White Jade Stone Hat Band - Halo",
+      "category": "Other",
+      "price": 42,
+      "priceMax": 42,
+      "photo": "square-photos/OHEY7CPCAQYLWCSCFMKSHAJC.jpeg"
+    },
+    {
+      "id": "U2IUIXH2QTPCYAH55WYISQZE",
+      "name": "Oval Stick Hat Pin - Desert Flame",
+      "category": "Pins",
+      "price": 30,
+      "priceMax": 30,
+      "photo": "square-photos/2BINTARM6N65Q5AZHCBSD4N3.jpeg"
+    },
+    {
+      "id": "INBZBZTXNUXCRMIFEI7W5KIV",
+      "name": "PIN; Baylor Bears Enamel Logo Stud Earrings in Shiny Gold",
+      "category": "Pins",
+      "price": 8,
+      "priceMax": 8,
+      "photo": null
+    },
+    {
+      "id": "FZ5QJJ5LQUGAKJBW7PA2YF6S",
+      "name": "PIN; Evil Eye Shaped Stud Earrings in Shiny Gold",
+      "category": "Pins",
+      "price": 8,
+      "priceMax": 8,
+      "photo": null
+    },
+    {
+      "id": "RHPJ37BSWKMUV2YHI7CS3OZB",
+      "name": "PIN; Katherine Horseshoe Stud Earrings in Tortoise",
+      "category": "Pins",
+      "price": 8,
+      "priceMax": 8,
+      "photo": null
+    },
+    {
+      "id": "TRNANFA2IMPZX5ORA3HQIYLQ",
+      "name": "PIN; Katherine Horseshoe Stud Earrings in Tortoise",
+      "category": "Pins",
+      "price": 8,
+      "priceMax": 8,
+      "photo": null
+    },
+    {
+      "id": "XEHSXV4RREFGLQIDYWMZAC7O",
+      "name": "PIN; Lucky Horseshoe Stud Earrings in Shiny Gold",
+      "category": "Pins",
+      "price": 8,
+      "priceMax": 8,
+      "photo": null
+    },
+    {
+      "id": "SEZAGEBBPRLPUVVTWUPVVNGF",
+      "name": "PIN; New Boot Goofin Stud Earrings in Shiny Gold",
+      "category": "Pins",
+      "price": 8,
+      "priceMax": 8,
+      "photo": null
+    },
+    {
+      "id": "BX4JSHCQMKZSXTX54KQCIPJL",
+      "name": "PIN; Oklahoma Sooners 24K Gold Plated Stud Earrings",
+      "category": "Pins",
+      "price": 8,
+      "priceMax": 8,
+      "photo": null
+    },
+    {
+      "id": "HXI3IL4IGKGWHS62SWYJIUY6",
+      "name": "PIN; Oklahoma Sooners Enamel Logo Stud Earrings in Shiny Gold",
+      "category": "Pins",
+      "price": 8,
+      "priceMax": 8,
+      "photo": null
+    },
+    {
+      "id": "ILFEO5ZJV7IO54TGU7ZSNR2Z",
+      "name": "PIN; Pave Spider Stud Earrings in Black",
+      "category": "Pins",
+      "price": 8,
+      "priceMax": 8,
+      "photo": null
+    },
+    {
+      "id": "MQVYZZ3BK4LQAYN635SQSQUC",
+      "name": "PIN; Presley Rhinestone Heart Earrings in Tortoise",
+      "category": "Pins",
+      "price": 8,
+      "priceMax": 8,
+      "photo": null
+    },
+    {
+      "id": "74BHZNJ3U52GCD5OK4FYUNUY",
+      "name": "PIN; Stallion Stud Earrings in Shiny Gold",
+      "category": "Pins",
+      "price": 8,
+      "priceMax": 8,
+      "photo": null
+    },
+    {
+      "id": "VTA2HOI3YEZKXLDBTLAHCLJK",
+      "name": "PIN; Starlight Drop Boot Earrings in Shiny Gold",
+      "category": "Pins",
+      "price": 8,
+      "priceMax": 8,
+      "photo": null
+    },
+    {
+      "id": "GGOUUZ5CMW73Y76EX7EMR4XP",
+      "name": "PIN; Taos Steer Skull Stud Earrings in Shiny Gold",
+      "category": "Pins",
+      "price": 8,
+      "priceMax": 8,
+      "photo": null
+    },
+    {
+      "id": "E7QQFW3ZFMXAN5P2PD4VXLYA",
+      "name": "PIN: Anarchy CZ Rectangle",
+      "category": "Pins",
+      "price": 5,
+      "priceMax": 5,
+      "photo": "square-photos/ETQMXO3AYO5G5DFHRBQ3EGCG.png"
+    },
+    {
+      "id": "AU3WK65VGPW4M7SUQJT7TGA6",
+      "name": "PIN: Anarchy Mini Cross",
+      "category": "Pins",
+      "price": 5,
+      "priceMax": 5,
+      "photo": "square-photos/ETQMXO3AYO5G5DFHRBQ3EGCG.png"
+    },
+    {
+      "id": "MEABW3WHXIZ6EYF63YWTYTFX",
+      "name": "PIN: Anarchy Mini Heart",
+      "category": "Pins",
+      "price": 5,
+      "priceMax": 5,
+      "photo": "square-photos/ETQMXO3AYO5G5DFHRBQ3EGCG.png"
+    },
+    {
+      "id": "WFB72WY66XLQDNVKLULX7FAC",
+      "name": "PIN: Anarchy Western Cowboy - Clear Round Crystal",
+      "category": "Pins",
+      "price": 5,
+      "priceMax": 5,
+      "photo": "square-photos/YOFOKC7BFCLIRHBHH7CYQEAN.png"
+    },
+    {
+      "id": "67OHDYWX3PSL2SHBNFWU347F",
+      "name": "PIN: Anarchy Western Cowboy - Cowboy Hat",
+      "category": "Pins",
+      "price": 5,
+      "priceMax": 5,
+      "photo": "square-photos/YOFOKC7BFCLIRHBHH7CYQEAN.png"
+    },
+    {
+      "id": "LFZEXVMKM23Z5BNWZHLMFKKQ",
+      "name": "PIN: Anarchy Western Cowboy - Horseshoe",
+      "category": "Pins",
+      "price": 5,
+      "priceMax": 5,
+      "photo": "square-photos/YOFOKC7BFCLIRHBHH7CYQEAN.png"
+    },
+    {
+      "id": "RGO2I3Y5DLRJWGNFCVALBF6H",
+      "name": "PIN: Anarchy Western Cowboy - Linked Hearts",
+      "category": "Pins",
+      "price": 5,
+      "priceMax": 5,
+      "photo": "square-photos/YOFOKC7BFCLIRHBHH7CYQEAN.png"
+    },
+    {
+      "id": "NYCF36CHFWNXUN7PAMS56MDC",
+      "name": "PIN: Anarchy Western Cowboy - Round Pearl Look",
+      "category": "Pins",
+      "price": 5,
+      "priceMax": 5,
+      "photo": "square-photos/YOFOKC7BFCLIRHBHH7CYQEAN.png"
+    },
+    {
+      "id": "FP4BZ3CKIBTOGQ2P3QRV3NN2",
+      "name": "PIN: Anarchy Western Cowboy - Turquoise Bird",
+      "category": "Pins",
+      "price": 5,
+      "priceMax": 5,
+      "photo": "square-photos/YOFOKC7BFCLIRHBHH7CYQEAN.png"
+    },
+    {
+      "id": "TAAAJJK5NXXS5O3TD5FF25UI",
+      "name": "PIN: Anarchy Western Cowboy - Turquoise Steer Skull",
+      "category": "Pins",
+      "price": 5,
+      "priceMax": 5,
+      "photo": "square-photos/YOFOKC7BFCLIRHBHH7CYQEAN.png"
+    },
+    {
+      "id": "3BR2OIAN3KEHRRKMTTDD5HW5",
+      "name": "PIN: Blue Matrix Hat Pin",
+      "category": "Pins",
+      "price": 30,
+      "priceMax": 30,
+      "photo": "square-photos/JOIX2NDJUAWHZOWSBKRKEQIB.jpeg"
     },
     {
       "id": "W2NHFCYOO27AHNBZ2YTVERC2",
@@ -578,6 +1410,30 @@
       "photo": "square-photos/BFCQBDSR36TZPAKO6SKQPKTD.png"
     },
     {
+      "id": "IPSRM2U3ADN7PAVAULHY6SNO",
+      "name": "PIN: Oklahoma Sooners Enamel Icon",
+      "category": "Pins",
+      "price": 10,
+      "priceMax": 10,
+      "photo": "square-photos/XT6L3KD42AQDBUW2V2CTJXNS.png"
+    },
+    {
+      "id": "5LAIZQSMS3NIWVWKMVKXW2XE",
+      "name": "PIN: Oklahoma State Cowboys Enamel Logo Gold",
+      "category": "Pins",
+      "price": 10,
+      "priceMax": 10,
+      "photo": "square-photos/XRTKZATAAQLMNVPFAOK7CI2Q.png"
+    },
+    {
+      "id": "CSNJ7T62IFLDTUTUXRHYCXRE",
+      "name": "PIN: Oklahoma State Cowboys Pave Disc",
+      "category": "Pins",
+      "price": 10,
+      "priceMax": 10,
+      "photo": "square-photos/4MKBU52KXHZF2STG62UAION5.png"
+    },
+    {
       "id": "HPMCWZ2ZOGZING67UACAHPB2",
       "name": "PIN: Studded Mini Football",
       "category": "Pins",
@@ -586,12 +1442,140 @@
       "photo": "square-photos/4UO5VWH2CMZTYF47DYK2JGMR.png"
     },
     {
+      "id": "FJT7DB3CAYTVNTMLSALUK56D",
+      "name": "PIN: Taos Steer Skull in Shiny Gold",
+      "category": "Pins",
+      "price": 10,
+      "priceMax": 10,
+      "photo": "square-photos/4BKFFRXITV65W45WMLGWLW6N.png"
+    },
+    {
+      "id": "URQNWGGHNSWCK7IZKT2UBQFX",
+      "name": "PIN: TCU Horned Frogs 24K Gold Plated",
+      "category": "Pins",
+      "price": 10,
+      "priceMax": 10,
+      "photo": "square-photos/PZXGG7ZNT6JYKG5GVB5X5NNN.png"
+    },
+    {
+      "id": "YROEFLG772DNHPCRBL7EUBEN",
+      "name": "PIN: Texas Longhorns 24K Stamped Logo",
+      "category": "Pins",
+      "price": 10,
+      "priceMax": 10,
+      "photo": "square-photos/T7OT47TW6PJOQHDGN7N22HBZ.png"
+    },
+    {
+      "id": "53XGPB2LKHSLGC3DXHEFEBDD",
+      "name": "PIN: Texas Longhorns Enamel Icon",
+      "category": "Pins",
+      "price": 10,
+      "priceMax": 10,
+      "photo": "square-photos/6IPV3TUKO7UANMZJVWENASCM.png"
+    },
+    {
+      "id": "X4CSLNDNC4TFAGH5CP3GTXTF",
+      "name": "PIN: Texas Longhorns Enamel Logo in Shiny Gold",
+      "category": "Pins",
+      "price": 10,
+      "priceMax": 10,
+      "photo": "square-photos/LJLEHBELDRIDY64UNLT2WCVW.png"
+    },
+    {
+      "id": "P6UHWFH2KXI5AOYHUKUE5NPX",
+      "name": "PIN: Texas Longhorns Logo Circle",
+      "category": "Pins",
+      "price": 10,
+      "priceMax": 10,
+      "photo": "square-photos/JHWICMOEZAOJIYUO6TP3W5I7.png"
+    },
+    {
+      "id": "RGUQTSYLJYIGNRMS4FPLMUMQ",
+      "name": "PIN: Texas Longhorns Pave Disc",
+      "category": "Pins",
+      "price": 10,
+      "priceMax": 10,
+      "photo": "square-photos/BUCZWAHDWUBBU4RGKWMAYO6R.png"
+    },
+    {
+      "id": "M6FITH54DU3CNWI7TM3LPCHD",
+      "name": "PIN: Texas State Bobcats Enamel Logo in Shiny Gold",
+      "category": "Pins",
+      "price": 10,
+      "priceMax": 10,
+      "photo": "square-photos/E5SPS2HMCC66H5NGPWB7L7TW.png"
+    },
+    {
+      "id": "GHVDE7N2DEOJPPSTMHD4K4JQ",
+      "name": "PIN: Texas Tech Red Raiders Enamel Logo",
+      "category": "Pins",
+      "price": 10,
+      "priceMax": 10,
+      "photo": "square-photos/6JA2KSWYPOKJUY2Y5H4TR7X5.png"
+    },
+    {
+      "id": "3KSJQKGAC57UPCRIUJJEFETU",
+      "name": "PIN: Texas Tech University Logo 24K Gold Plated",
+      "category": "Pins",
+      "price": 10,
+      "priceMax": 10,
+      "photo": "square-photos/5GKA57HM56TLRUAYES54HYYE.png"
+    },
+    {
       "id": "CCYOI7F524LJWJGW5LCKXI4F",
       "name": "PINS: Pin (Large)",
       "category": "Pins",
       "price": 10,
       "priceMax": 10,
       "photo": null
+    },
+    {
+      "id": "3W4C7ADLOK7QALWYSG5BB46X",
+      "name": "Southwest Mosaic Hat Pin",
+      "category": "Pins",
+      "price": 36,
+      "priceMax": 36,
+      "photo": "square-photos/QIVNSE5UHPYPX2G6ZIQDLOC3.jpeg"
+    },
+    {
+      "id": "Q7AI6YXPTDXD7W6EUYL5BVL2",
+      "name": "Thunderbird Hat Pin",
+      "category": "Pins",
+      "price": 30,
+      "priceMax": 30,
+      "photo": "square-photos/FH6GILP4MXNYTLT4KIDQVQGD.jpeg"
+    },
+    {
+      "id": "I3PFKTH75CNQF4S4TOWEAXUY",
+      "name": "Turquoise Stone Button Hat Pin",
+      "category": "Pins",
+      "price": 16,
+      "priceMax": 16,
+      "photo": "square-photos/COZ54LZ5VMLFVW6IPSAUGGUI.jpeg"
+    },
+    {
+      "id": "6KJDU3JKLLTZ62GA66CZWSWZ",
+      "name": "Turquoise Stone Hat Pin",
+      "category": "Pins",
+      "price": 19,
+      "priceMax": 19,
+      "photo": "square-photos/E5SX4XJ6WX2NEGEMISFCQCFT.jpeg"
+    },
+    {
+      "id": "LT27FLR76FKNMGUZV4F264TS",
+      "name": "Violet Marble Hat Pin",
+      "category": "Pins",
+      "price": 36,
+      "priceMax": 36,
+      "photo": "square-photos/D3PZJELTI3XFWKBIHQYTUPBB.jpeg"
+    },
+    {
+      "id": "T3ZXMGCDUZ3WMFSO7OZSRIKF",
+      "name": "White Stone Hat Pin",
+      "category": "Pins",
+      "price": 19,
+      "priceMax": 19,
+      "photo": "square-photos/KNCOUISOY2KBOILD4WZ5LFPJ.jpeg"
     }
   ]
 }
