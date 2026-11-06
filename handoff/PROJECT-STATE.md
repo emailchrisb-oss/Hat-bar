@@ -8,7 +8,7 @@ Last updated against `main` @ `c093151`, build `2026-08-11 · trade-up`.
 
 **Hat Bar Tally** — a register for Details Austin, a custom hat bar in Austin,
 TX. The owner builds a hat with the customer on one iPhone, then takes payment
-through Square. Live at **https://cbrad350.github.io/Hat-bar/**, installed to the
+through Square. Live at **https://emailchrisb-oss.github.io/Hat-bar/**, installed to the
 home screen.
 
 Zero dependencies, no build step. `index.html` is the entire app.
@@ -19,7 +19,9 @@ Zero dependencies, no build step. `index.html` is the entire app.
   possible. Communicates by phone, sometimes voice-to-text (garbles badly on
   pricing details — confirm before building anything involving money).
 - **Owner** — his wife, runs the hat bar. Uses the app at the counter.
-- GitHub account `cbrad350` (created for this project; he also has a personal
+- GitHub account `emailchrisb-oss` owns the repo. `cbrad350` (created for this
+  project) was the original owner and is still an admin collaborator; he also
+  has a personal
   account, which caused a confusing 404 on the private repo).
 
 ## Status
@@ -71,7 +73,9 @@ Zero dependencies, no build step. `index.html` is the entire app.
 
 ## Environment
 
-- Repo `cbrad350/Hat-bar`, **private**, GitHub Pro (needed for Pages).
+- Repo `emailchrisb-oss/Hat-bar`, **public** (so Pages needs no paid plan).
+  Transferred from `cbrad350` in Aug 2026 — the old `cbrad350.github.io` URL is
+  dead, and GitHub does not redirect Pages across owners.
 - Secret `SQUARE_ACCESS_TOKEN` is set and working.
 - Square Application ID lives on the phone, not in the repo.
 - The requester cannot be helped by driving his browser — this environment has

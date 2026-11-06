@@ -57,6 +57,18 @@ catalog = {
 with open(root + "/square-catalog.json", "w") as f:
     json.dump(catalog, f, indent=2)
 EOF
+fixture_status=$?
+
+# A silent fixture failure is worse than no test run: the suite would go on to
+# report missing-catalog symptoms as if the app had regressed. Pillow lands under
+# whichever Python pip targets, which is not always the `python3` on PATH.
+if [ "$fixture_status" -ne 0 ] || [ ! -s "$ROOT/square-catalog.json" ]; then
+  echo "FIXTURE SETUP FAILED - not running the suite (its results would be meaningless)."
+  echo "  python3 is: $(python3 -V 2>&1)"
+  echo "  Pillow check: $(python3 -c 'import PIL;print(PIL.__file__)' 2>&1 | tail -1)"
+  echo "  Fix with: python3 -m pip install --force-reinstall --break-system-packages pillow"
+  exit 1
+fi
 
 node test_app.js
 status=$?

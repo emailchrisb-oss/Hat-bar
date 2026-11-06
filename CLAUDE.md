@@ -1,7 +1,7 @@
 # Hat Bar Tally
 
 Register app for **Details Austin**, a custom hat bar. In production — the owner
-rings up real customers on it. Live at https://cbrad350.github.io/Hat-bar/
+rings up real customers on it. Live at https://emailchrisb-oss.github.io/Hat-bar/
 
 **New here? Read `handoff/README.md` first.** It indexes everything below and
 takes about fifteen minutes.

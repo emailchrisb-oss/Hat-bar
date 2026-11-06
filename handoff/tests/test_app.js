@@ -14,7 +14,35 @@ const path = require("path");
 
 const SCRATCH = __dirname;
 const ROOT = process.env.REPO_ROOT || path.resolve(__dirname, "..", "..");
-const CHROME = process.env.CHROME_PATH || "/opt/pw-browsers/chromium-1194/chrome-linux/chrome";
+// Playwright's bundled Chromium moves with every browser revision — the build
+// number changes and so does the folder ("chrome-linux" became "chrome-linux64").
+// Pinning one path means the suite dies on an unrelated container update, so
+// discover it instead. CHROME_PATH still wins if you set it.
+function findChromium() {
+  const roots = ["/opt/pw-browsers", path.join(process.env.HOME || "/root", ".cache/ms-playwright")];
+  const subs = ["chrome-linux64/chrome", "chrome-linux/chrome", "chrome-linux64/headless_shell", "chrome-linux/headless_shell"];
+  const hits = [];
+  for (const root of roots) {
+    let entries = [];
+    try { entries = fs.readdirSync(root); } catch (e) { continue; }
+    for (const dir of entries) {
+      if (!/^chromium(_headless_shell)?-\d+$/.test(dir)) continue;
+      const build = parseInt(dir.replace(/\D+/g, ""), 10) || 0;
+      for (const sub of subs) {
+        const p = path.join(root, dir, sub);
+        if (fs.existsSync(p)) hits.push({ p, build, headless: sub.includes("headless_shell") ? 1 : 0 });
+      }
+    }
+  }
+  if (!hits.length) {
+    console.error("No Chromium found under /opt/pw-browsers or ~/.cache/ms-playwright.");
+    console.error("Set CHROME_PATH to your browser binary and re-run.");
+    process.exit(1);
+  }
+  hits.sort((a, b) => a.headless - b.headless || b.build - a.build);
+  return hits[0].p;
+}
+const CHROME = process.env.CHROME_PATH || findChromium();
 const MIME = { ".html": "text/html", ".js": "text/javascript", ".json": "application/json", ".png": "image/png", ".jpg": "image/jpeg", ".svg": "image/svg+xml" };
 
 let failures = 0;
